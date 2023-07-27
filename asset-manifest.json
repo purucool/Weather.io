@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Weather.io/static/css/main.2d7e170d.css",
+    "main.js": "/Weather.io/static/js/main.827894d3.js",
+    "static/media/weather6.jpg": "/Weather.io/static/media/weather6.496298ed8ac33514de33.jpg",
+    "static/media/weather5.jpg": "/Weather.io/static/media/weather5.fe3dd86ee1eec660a4e6.jpg",
+    "static/media/weather3.jpg": "/Weather.io/static/media/weather3.76acfa013bfe72ccc0ea.jpg",
+    "static/media/weather4.jpg": "/Weather.io/static/media/weather4.3dd3092784b8f6c8cd24.jpg",
+    "static/media/cold.jpg": "/Weather.io/static/media/cold.88964cccc93639e22800.jpg",
+    "static/media/clear.jpg": "/Weather.io/static/media/clear.5de1cc4a0444fc2d08f1.jpg",
+    "static/media/weather2.jpg": "/Weather.io/static/media/weather2.521814b9af09a0c6724e.jpg",
+    "static/media/background.jpg": "/Weather.io/static/media/background.3bc26a22c45ce8118a15.jpg",
+    "static/media/weather1.jpg": "/Weather.io/static/media/weather1.3062805cacb7d2afba75.jpg",
+    "static/media/freezing.png": "/Weather.io/static/media/freezing.e3fbceaa8d049052644c.png",
+    "static/media/Idilic.png": "/Weather.io/static/media/Idilic.61ad709eae2cad20fe83.png",
+    "static/media/rainicon2.png": "/Weather.io/static/media/rainicon2.794fb9785bbc54be70ca.png",
+    "static/media/sunnyicon.png": "/Weather.io/static/media/sunnyicon.fee33d44e67e7aa875a7.png",
+    "static/media/cloudsicon.png": "/Weather.io/static/media/cloudsicon.b9a187440c6c127890af.png",
+    "static/media/no.png": "/Weather.io/static/media/no.374225a369d4173a8200.png",
+    "index.html": "/Weather.io/index.html",
+    "main.2d7e170d.css.map": "/Weather.io/static/css/main.2d7e170d.css.map",
+    "main.827894d3.js.map": "/Weather.io/static/js/main.827894d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d7e170d.css",
+    "static/js/main.827894d3.js"
+  ]
+}
